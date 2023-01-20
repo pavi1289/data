@@ -1,2 +1,0 @@
-{firstname: abc, lastname: xyz,
-contry:ind, username:abhs, password: sdbd, email:iegs}
